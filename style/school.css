@@ -4,7 +4,7 @@
   font-optical-sizing: auto;
   font-weight:400;
   font-style: normal;
-  margin: 50px 350px;
+  margin: 50px 400px;
 }
 /* .vision{
     margin: 50px 350px;
@@ -24,6 +24,20 @@
 }
 .text-5D58EF{
     color:#5D58EF;
+}
+.text-white{
+ padding: 25px;
+ /* margin-right: 50px; */
+ justify-content: space-evenly;
+
+   
+    /* padding: 84px 197px 162px 115px; */
+    /* margin:25px;    */
+    background-color: #fff;
+}
+.kinder{
+    
+
 }
 .nav-item{
     list-style: none;
@@ -46,4 +60,52 @@
     justify-content: space-between;
     width: 100%;
 }
+.content{
+    background-color: greenyellow;
+}
+.courage{
+    margin: 160px;
 
+}
+
+   
+.butn{
+    border-radius: 5px;
+    background-color:black;
+    color:lightgrey;
+    padding: 10px 25px;
+
+}
+.btn:hover{
+    background-color: gray;
+    color: #fff;
+}
+.hero-kids{
+   font-size: medium;
+}
+.student{
+    font-weight: bold;
+}
+#standard{
+    display:text-align;
+}
+.more{
+    border-radius: 5px;
+    background-color:#fff;
+    
+    border-color: #fff;
+    padding: 10px 25px;
+}
+.story{
+   gap: 15px;
+}
+.view{
+    
+}
+.back{
+    background-color: skyblue;
+
+}
+#logo{
+    display:flex;
+}
